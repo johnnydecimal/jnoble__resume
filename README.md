@@ -3,7 +3,7 @@
 This resume is available:
 
 - [Online](https://github.com/johnnydecimal/resume/blob/main/resume.md) (you should prefer this version).
-- As a [PDF](https://github.com/johnnydecimal/resume/raw/main/John%20Noble%20–%20résumé%2C%20August%202022.pdf).
+- As a [PDF](https://github.com/johnnydecimal/resume/raw/e47b968fd30eac6509772deb7cba3c4cc263ad46/John%20Noble%20%E2%80%93%20re%CC%81sume%CC%81,%20August%202022.pdf).
 
 The content is identical.
 
