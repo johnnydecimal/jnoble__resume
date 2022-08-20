@@ -16,4 +16,4 @@ This work is published from:
   Australia</span>.
 </p>
 
-That said, it would be weird if anyone re-used this content. Given that it describes my life and not yours. But hey, go nuts.
+Note that this licence is not at odds with my request that you [do not modify this file](https://github.com/johnnydecimal/resume#can-i-do-anything-to-this-document). Do not modify this file *and then represent me with it*. If you want to copy this file and pretend to be me, [Frank Abagnale Jr.](https://en.wikipedia.org/wiki/Frank_Abagnale) style, that sounds fun.
