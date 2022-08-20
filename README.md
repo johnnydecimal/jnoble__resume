@@ -35,7 +35,7 @@ I am happy to create a version for you. Perhaps you want your logo on it, or you
 
 No. :-)
 
-As per the note above, you may not copy/paste it in to a Word document.
+As per the note above, you may not copy/paste this content in to a Word document.
 
 ## Licence
 
