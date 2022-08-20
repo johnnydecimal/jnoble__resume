@@ -1,6 +1,6 @@
 # John Noble – résumé, August 2022
 
-> [john@coruscade.com](mailto:john@coruscade.com)&nbsp;&nbsp;|&nbsp;&nbsp;[+61 415 658 257](tel:+61415658257)&nbsp;&nbsp;|&nbsp;&nbsp;[version 2208.01](https://github.com/johnnydecimal/resume/)
+> john\[at\]coruscade\[.\]com&nbsp;&nbsp;|&nbsp;&nbsp;[+61 415 658 257](tel:+61415658257)&nbsp;&nbsp;|&nbsp;&nbsp;[version 2208.01](https://github.com/johnnydecimal/resume/)
 
 ## Who I am
 My first computer was a [ZX Spectrum+][zx] and computers are all I’ve ever known. I was always destined to be a data nerd: the first programs I wrote were databases cataloguing the contents of my room[^tape].
