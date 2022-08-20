@@ -36,3 +36,7 @@ I am happy to create a version for you. Perhaps you want your logo on it, or you
 No. :-)
 
 As per the note above, you may not copy/paste it in to a Word document.
+
+## Licence
+
+All content in this repository (`johnnydecimal/resume`) is copyright 2022 John Noble.
