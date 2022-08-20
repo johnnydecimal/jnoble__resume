@@ -33,4 +33,6 @@ I am happy to create a version for you. Perhaps you want your logo on it, or you
 
 ## May I have this as a Word document?
 
-No. :-) It doesn't exist as a Word document. If you care about my thoughts on this matter, [read here](#placeholder).
+No. :-)
+
+As per the note above, you may not copy/paste it in to a Word document.
