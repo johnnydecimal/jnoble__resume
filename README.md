@@ -1,6 +1,6 @@
 # John Noble – résumé, August 2022
 
-My resume is available:
+My résumé is available:
 
 - [Online](https://github.com/johnnydecimal/resume/blob/main/resume.md).
 - As a [PDF](https://github.com/johnnydecimal/resume/raw/e47b968fd30eac6509772deb7cba3c4cc263ad46/John%20Noble%20%E2%80%93%20re%CC%81sume%CC%81,%20August%202022.pdf).
