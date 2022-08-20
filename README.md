@@ -23,7 +23,7 @@ I am available from the middle of October 2022.
 
 It depends on the job, but as a guide my 'rack rate' is AU$220 per hour, ex. GST.
 
-I am a life-long contractor. I am not looking for a full time position.
+I am a life-long contractor. I am not looking for a permanent role.
 
 ## Can I do \[anything\] to this document?
 
