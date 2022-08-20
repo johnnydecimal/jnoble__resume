@@ -11,7 +11,9 @@ The content is identical.
 
 ## How do I contact you?
 
-I prefer a phone call. My number is [+61 415 658 257](tel:+61415658257). My email address is [john@coruscade.com](mailto:john@coruscade.com).
+I prefer a phone call. My number is [+61 415 658 257](tel:+61415658257).
+
+My email address is john\[at\]coruscade\[.\]com.
 
 ## What is your availability?
 
