@@ -19,6 +19,8 @@ My email address is john\[at\]coruscade\[.\]com.
 
 I am available from the middle of October 2022.
 
+I can work for you for 4 days a week, from Tuesday to Friday.
+
 ## What is your rate?
 
 It depends on the job, but as a guide my 'rack rate' is AU$220 per hour, ex. GST.
