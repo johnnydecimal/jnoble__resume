@@ -29,7 +29,7 @@ I am a life-long contractor. I am not looking for a permanent role.
 
 No. This document directly represents who I am. Please don't change it.
 
-I am happy to create a version for you. Perhaps you want your logo on it, or you want a version without my contact details. Get in touch.
+I am happy to create a version for you. Perhaps you want your logo on it, or you want a version without my contact details. That's cool. Get in touch.
 
 ## May I have this as a Word document?
 
