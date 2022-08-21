@@ -35,7 +35,7 @@ I am happy to create a version for you. Perhaps you want your logo on it, or you
 
 No. :-)
 
-I'm not being awkward[^awk], there just isn't a Word version. The master is written in [Markdown](https://raw.githubusercontent.com/johnnydecimal/resume/main/resume.md), which GitHub then makes look nice. The PDF was created from the Markdown using [Marked 2](https://marked2app.com).
+I'm not being awkward[^awk], there just isn't a Word version. The [master](https://raw.githubusercontent.com/johnnydecimal/resume/main/resume.md) is written in [Markdown](https://daringfireball.net/projects/markdown/), which GitHub then makes look nice. The PDF was created from the Markdown using [Marked 2](https://marked2app.com).
 
 I strongly believe in the concept of [separating content from presentation](https://duckduckgo.com/?q=content+vs+presentation+html+css), which is one of the reasons I prefer not to use Word.
 
