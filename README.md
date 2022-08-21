@@ -11,7 +11,7 @@ The content is identical. The current version is 2208.01 which was updated at 20
 
 ## How do I contact you?
 
-I prefer a phone call. My number is [+61 415 658 257](tel:+61415658257).
+If we haven't already spoken, please call me. My number is [+61 415 658 257](tel:+61415658257).
 
 My email address is john\[at\]coruscade\[.\]com.
 
