@@ -39,7 +39,7 @@ I'm not being awkward[^awk], there just isn't a Word version. The master is writ
 
 I strongly believe in the concept of [separating content from presentation](https://duckduckgo.com/?q=content+vs+presentation+html+css), which is one of the reasons I prefer not to use Word.
 
-As per the note [above](https://github.com/johnnydecimal/resume/edit/main/README.md#can-i-do-anything-to-this-document), you may not copy/paste this content in to a Word document.
+As per the note [above]([https://github.com/johnnydecimal/resume/edit/main/README.md#can-i-do-anything-to-this-document](https://github.com/johnnydecimal/resume/blob/main/README.md#can-i-do-anything-to-this-document), you may not copy/paste this content in to a Word document.
 
 ## Licence
 
