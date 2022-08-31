@@ -1,3 +1,5 @@
+<!-- Matches master version 2208.02. -->
+
 # John Noble – résumé, August 2022
 
 My first computer was a [ZX Spectrum+][zx] and computers are all I’ve ever known. I was always destined to be a data nerd: the first programs I wrote were databases cataloguing the contents of my room[^tape].
@@ -6,11 +8,9 @@ You may know me on the internet as **[Johnny.Decimal][jd]**. My system is recogn
 
 Originally British, I moved to Australia by accident in 2003. I’ve worked all over the world: Colombia, Nigeria, Ukraine; I’ve been evacuated from war zones and met Prime Ministers. I received an award for bravery from the UK’s Royal Humane Society. I’m flexible, inventive, and calm in a crisis.
 
-I now live in Canberra. I hold an NV2 security clearance.
-
 ## Leidos, 2015—current
 
-Since 2015 I have worked at Leidos in a variety of roles.
+Since 2015 I have worked at Leidos (formerly Lockheed Martin) in a variety of roles.
 
 ### Head of Data and Interfaces, Defence, 2021-2022
 I am currently **Head of Data and Interfaces** within the team that manages the **Department of Defence Centralised Processing (CP)** contract.
