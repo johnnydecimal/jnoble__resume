@@ -3,7 +3,7 @@
 My résumé is available:
 
 - [Online](https://github.com/johnnydecimal/resume/blob/main/resume.md).
-- As a [PDF](https://github.com/johnnydecimal/resume/raw/08ca4e5937ff55d6cc015a33b86ad2ff18acb5fb/John%20Noble%20%E2%80%93%20re%CC%81sume%CC%81,%20August%202022.pdf).
+- As a [PDF](https://jnoble.net/10-19/14/14.11/2208.02/main/John%20Noble%20–%20résumé,%20August%202022.pdf).
 
 The content is identical. The current version is 2208.02 which was updated at 2022-08-25 14:44.
 
