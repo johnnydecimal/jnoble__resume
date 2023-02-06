@@ -12,6 +12,9 @@ Originally British, I moved to Australia by accident in 2003. I’ve worked all 
 I now live in Canberra. I hold an NV2 security clearance.
 
 ## Where I’ve worked
+
+> As of October 2022 I have a new job. I'll update this section at some point (i.e. when I need the *next* job).
+
 Since **2015** I have worked at **Leidos** (formerly **Lockheed Martin**). I am currently **Head of Data & Interfaces** within the team that manages the **Department of Defence Centralised Processing (CP)** contract.
 
 My team’s role is to find ways to optimise our data, and the interfaces between the systems that store it. Most recently we dissected the business processes by which we plan, procure, and install data centre hardware. We did this using **[formal state charts][wikisc]**, and built a mock database and PMP-inspired project management tool using **[Airtable][at]**.
