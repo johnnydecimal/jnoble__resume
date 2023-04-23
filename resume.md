@@ -9,7 +9,7 @@ You may know me on the internet as **[Johnny.Decimal][jd]**. My system is recogn
 
 Originally British, I moved to Australia by accident in 2003. I’ve worked all over the world: Colombia, Nigeria, Ukraine; I’ve been evacuated from war zones and met Prime Ministers. I received an award for bravery from the UK’s Royal Humane Society. I’m flexible, inventive, and calm in a crisis.
 
-I now live in Canberra. I hold an NV2 security clearance.
+I now live in Canberra.
 
 ## Where I’ve worked
 
